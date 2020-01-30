@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-01-30T14:40:12Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Schaltplan"
+        },
+        "Owner": "Michael Hohenstein <michael.hohenstein20@gmail.com>",
+        "Size": {
+            "X": 154.92,
+            "Y": 102.54
+        }
+    }
+}
